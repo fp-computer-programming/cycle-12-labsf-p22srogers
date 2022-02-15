@@ -1,0 +1,5 @@
+ofile=open("my_file.txt","w")
+ofile.write("SMR 2/15/22")
+ofile.write("\nHello World!")
+ofile.write("\nPlaying Videogames")
+ofile.close()
